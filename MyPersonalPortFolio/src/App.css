@@ -1,0 +1,25 @@
+
+*, ::before, ::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+html{
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body{
+  font-size: 1.6rem;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+:root{
+  --clr-black: #000;
+  --clr-white: #fff;
+  --clr-orange: #307254;
+  --clr-light-gray: #b5b6ffb7;
+  --clr-blue: #30511b;
+  --clr-dark-blue: #343d68;
+}
